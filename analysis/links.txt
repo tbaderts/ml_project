@@ -1,0 +1,50 @@
+### Analyse ###
+
+Olga Chernytska, 2D Hand Pose Estimation-RGB, FreiHand dataset
+--------------------------------------------------------------
+
+https://github.com/OlgaChernytska/3D-Hand-Pose-Estimation
+https://towardsdatascience.com/gentle-introduction-to-2d-hand-pose-estimation-approach-explained-4348d6d79b11
+https://towardsdatascience.com/gentle-introduction-to-2d-hand-pose-estimation-lets-code-it-6c82046d4acf
+https://lmb.informatik.uni-freiburg.de/projects/freihand
+
+NVIDIA AI IOT
+-------------
+
+https://github.com/NVIDIA-AI-IOT/trt_pose
+https://github.com/NVIDIA-AI-IOT/trt_pose_hand
+https://github.com/NVIDIA-AI-IOT/jetcam
+https://github.com/NVIDIA-AI-IOT/torch2trt
+
+Google mediapipe
+----------------
+
+https://google.github.io/mediapipe/
+https://google.github.io/mediapipe/solutions/hands.html
+
+
+OpenMMLab, MMPose
+-----------------
+
+https://github.com/open-mmlab
+https://github.com/open-mmlab/mmpose
+https://github.com/open-mmlab/mmdetection
+https://github.com/open-mmlab/mmdeploy
+
+YOLOv7
+------
+
+https://github.com/WongKinYiu/yolov7
+https://github.com/nanmi/yolov7-pose
+https://stackabuse.com/real-time-pose-estimation-from-video-in-python-with-yolov7/
+
+
+Nvidia TAO, DeepStream, Triton
+------------------------------
+
+https://developer.nvidia.com/tao-toolkit-get-started
+https://github.com/NVIDIA-AI-IOT/nvidia-tao
+https://github.com/NVIDIA-AI-IOT/tao-toolkit-triton-apps
+https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_Python_Sample_Apps.html
+https://github.com/triton-inference-server/server
+https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/poseclassificationnet

@@ -1,0 +1,3 @@
+conda activate mmpose
+cd mmpose
+python demo/webcam_demo.py --config ../cfg/hand_pose.py --cuda

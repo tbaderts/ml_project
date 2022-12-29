@@ -1,0 +1,7 @@
+conda create --name yolov7 python=3.8 -y
+conda activate yolov7
+
+conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
+
+model download link:
+https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-w6-pose.pt

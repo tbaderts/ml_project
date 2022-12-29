@@ -1,0 +1,17 @@
+conda create --name mmpose python=3.8 -y
+conda activate mmpose
+
+conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
+
+git clone https://github.com/open-mmlab/mmpose.git
+cd mmpose
+pip install -r requirements.txt
+pip install mmcv-full==1.5.0
+pip3 install -e .
+
+cd ..
+git clone https://github.com/open-mmlab/mmdetection.git
+cd mmdetection
+pip3 install -e .
+
+conda install -n mmpose ipykernel --update-deps --force-reinstall
