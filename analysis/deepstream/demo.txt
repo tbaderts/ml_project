@@ -1,0 +1,5 @@
+cd bodypose-3d/app
+./deepstream-pose-estimation --input file://$PROJECT_ROOT/testdata/human/video/yoga_kahe.mp4
+
+https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps/tree/master/deepstream-bodypose-3d
+https://arxiv.org/abs/2104.13502

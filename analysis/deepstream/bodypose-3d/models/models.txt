@@ -1,0 +1,2 @@
+https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/peoplenet
+https://ngc.nvidia.com/models/nvstaging:tao:bodypose3dnet
