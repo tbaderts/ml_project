@@ -3,3 +3,8 @@ cd bodypose-3d/app
 
 https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps/tree/master/deepstream-bodypose-3d
 https://arxiv.org/abs/2104.13502
+
+python app
+cd deepstream-test1
+conda activate deepstream
+python deepstream_test_1.py ../../../testdata/other/road_race.h264
